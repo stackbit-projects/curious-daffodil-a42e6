@@ -47,7 +47,7 @@
                 "title": "Dinas Sosial",
                 "nav_links": [
                     {
-                        "label": "About Us",
+                        "label": "Tentang Kami",
                         "url": "/about",
                         "style": "link"
                     },
