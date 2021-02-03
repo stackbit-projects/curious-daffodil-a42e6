@@ -92,7 +92,7 @@
                     },
                     {
                         "label": "Youtube",
-                        "url": "https://youtube",
+                        "url": "https://youtubeas",
                         "style": "link",
                         "has_icon": true,
                         "icon": "github",
