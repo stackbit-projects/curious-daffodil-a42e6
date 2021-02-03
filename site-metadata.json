@@ -50,7 +50,8 @@
                         "label": "Tentang Kami",
                         "url": "/about",
                         "style": "link",
-                        "has_icon": false
+                        "has_icon": false,
+                        "new_window": true
                     },
                     {
                         "label": "Blog",
