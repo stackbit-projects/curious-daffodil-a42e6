@@ -15,7 +15,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    subtitle: 'Kami memiliki komitmen layanan '
+    subtitle: 'Kami memiliki komitmen untuk memberikan layanan '
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
