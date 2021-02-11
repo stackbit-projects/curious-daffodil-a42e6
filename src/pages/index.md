@@ -15,9 +15,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: 'Kami memiliki komitmen '
     features:
       - title: The Best Feature of Your Services
         image: images/feature1.png
